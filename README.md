@@ -35,3 +35,6 @@ npm start
 - CORS
 - Axios
 - Nodemon
+
+
+Остановился на 0:35:54
