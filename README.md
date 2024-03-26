@@ -7,13 +7,13 @@
 1. Клонируйте репозиторий на локальную машину:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Netvoiangel/microservice-react-app-1
 ```
 
 2. Перейдите в каталог с проектом:
 
 ```bash
-cd your-repository
+cd microservice-react-app-1
 ```
 
 3. Установите зависимости с помощью npm:
