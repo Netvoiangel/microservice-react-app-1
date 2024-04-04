@@ -14,7 +14,19 @@ git clone https://github.com/Netvoiangel/microservice-react-app-1
 
 Ожидайте обновлени инструкции
 
+## Запуск проекта
 
+Для запуска проекта выполните следующие шаги:
+
+1. Установите Skaffold, если он ещё не установлен.
+
+2. Запустите проект с помощью команды:
+
+```bash
+skaffold dev
+```
+
+Эта команда автоматически соберет, деплоит и отслеживает изменения в вашем приложении.
 
 ## Используемые технологии и библиотеки
 
@@ -25,4 +37,4 @@ git clone https://github.com/Netvoiangel/microservice-react-app-1
 - Nodemon
 - Docker
 - Kubernetes
-
+- Skaffold
